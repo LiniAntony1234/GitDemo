@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83" started-at="2020-05-23T11:54:56 IST" finished-at="2020-05-23T11:54:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83" started-at="2020-05-23T11:54:56 IST" finished-at="2020-05-23T11:54:56 IST">
+      <class name="MavenTest.AppiumTest">
+        <test-method status="PASS" signature="name1()[pri:0, instance:MavenTest.AppiumTest@32d2fa64]" name="name1" duration-ms="13" started-at="2020-05-23T11:54:56 IST" finished-at="2020-05-23T11:54:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name1 -->
+        <test-method status="PASS" signature="name2()[pri:0, instance:MavenTest.AppiumTest@32d2fa64]" name="name2" duration-ms="1" started-at="2020-05-23T11:54:56 IST" finished-at="2020-05-23T11:54:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name2 -->
+      </class> <!-- MavenTest.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
